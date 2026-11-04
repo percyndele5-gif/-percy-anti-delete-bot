@@ -1,0 +1,13 @@
+{
+  "name": "percy-anti-delete-bot",
+  "version": "1.0.0",
+  "description": "Assistant WhatsApp personnel Percy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest"
+  }
+}
